@@ -6,7 +6,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
 # 
 TOKEN = "8125132253:AAG-UgczuMp-fkgBxG_jgqzZKx--F4yu8u4"
-"
+
 # 
 CHAT_ID = 6791432578
 
